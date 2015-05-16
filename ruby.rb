@@ -19,3 +19,21 @@ muppets = [
 	Muppet.new("Rowlf", 100),
 	Muppet.new()
 ]
+
+
+# This is a comment
+class Person
+
+	attr_accessor :name
+
+	def initalize(attributes = {})
+		@name = attributes[:name]
+	end
+
+	def self.greet
+		"hello"
+	end
+end
+
+person1 = Person.new(:name => "Chris")
+print Person::greet, " ", person1.name, "\n"
