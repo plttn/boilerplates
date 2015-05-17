@@ -1,3 +1,5 @@
+@boilerplate-color: #123456;
+
 div {
 	color: brown;
 }
@@ -10,4 +12,9 @@ div {
 	background-color: #fff;
 	margin: auto;
 	margin-left: 10px;
+}
+
+p {
+	color: @boilerplate-color;
+	background-color: desaturate(@boilerplate-color, 10%);
 }
