@@ -1,5 +1,5 @@
 # Header
-**bold** _ipsum_ **_dolor_** [consectur][1] ~~strikethrough~~
+**bold** _ipsum_ ***dolor*** [consectur][1] ~~strikethrough~~
 
 > quick brown fox
 

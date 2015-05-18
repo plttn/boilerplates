@@ -11,3 +11,12 @@ for dir in $(find . -maxdepth 10 -not -path './.git*' -not -path '*/_*' -type d 
 do
 if ls $dir/*.go &/> /dev/null; then
 	godep go test -covermode=count -coverprofile=$
+	if [ -f $dir/profile.tmp ]
+	then
+		cat $dir/profile.tmp | tail -n +2 >> profile.cov
+		rm $dir/profile.tmp
+	fi
+fi
+done
+
+godep go tool cover -func profile.cov
