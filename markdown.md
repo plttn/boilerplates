@@ -32,11 +32,8 @@ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <!-- comment  -->
 
+- unordered
 - list
-- list
-- list
-- list
-
 
 1. numerical
 2. list
