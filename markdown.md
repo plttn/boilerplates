@@ -1,10 +1,5 @@
 # This is an H1
-
-This is also an H1
-==================
-
-This is an H2
--------------
+## This is an H2
 
 **bold** _ipsum_ ***dolor*** [consectur][1] ~~strikethrough~~
 
@@ -52,11 +47,7 @@ inline `codeblocks` here
 ```html
 <html>
 	<head>
-	<title>Hello World</title>
+	<title>hello</title>
 	</head>
-	<body>
-		<p>
-			Lorem Ipsum
-		</p>
 </html>
 ```
