@@ -20,13 +20,10 @@ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 [2]: http://example.com/2
 
 
+> block quotes lorem ipsum ipsum lorem
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
-
-> block quotes
-> block quotes
-> block quotes
-> block quotes
-> block quotes
+Horizontal line
 
 --------------------------------------------------------------------------------
 
@@ -34,6 +31,7 @@ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 - unordered
 - list
+- items
 
 1. numerical
 2. list
