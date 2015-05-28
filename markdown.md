@@ -52,6 +52,13 @@ inline `codeblocks` here
 </html>
 ```
 
+```ruby
+# compare awesomeness
+def <=>(muppet)
+	awesomeness <=> muppet.awesomeness
+end
+```
+
 #### CriticMarkup
 
 Lorem {++ipsum++} dolor {--sit--} amet, {~~sonsectetur~>consectur~~} adipisicing
