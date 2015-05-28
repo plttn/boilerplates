@@ -1,8 +1,11 @@
 # This is an H1
 ## This is an H2
+### This is an H3
+#### This is an H4
+##### This is an H5
+###### This is an H6
 
 **bold** _ipsum_ ***dolor*** [consectur][1] ~~strikethrough~~
-
 
 
 [Lorem](http://example.com) ipsum dolor sit amet, consectetur adipisicing elit,
@@ -14,11 +17,11 @@ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![inline image](http://placehold.it/100x100)
 
-![reference image][1]
+![reference image][3]
 
-[1]: http://placehold.it/100x100
+[1]: http://example.com/1
 [2]: http://example.com/2
-
+[3]: http://placehold.it/200x200
 
 > block quotes lorem ipsum ipsum lorem
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
