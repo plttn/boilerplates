@@ -19,10 +19,6 @@ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![reference image][3]
 
-[1]: http://example.com/1
-[2]: http://example.com/2
-[3]: http://placehold.it/200x200
-
 > block quotes lorem ipsum ipsum lorem
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 
@@ -39,7 +35,7 @@ Horizontal line
 
 1. numerical
 2. itemed
-2. list
+3. list
 
 
 inline `codeblocks` here
@@ -68,3 +64,7 @@ aliquip ex ea commodo consequat. {>>comment<<} Duis aute irure dolor in
 reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
 deserunt mollit anim id est {==laborum==}{>>confusing<<}.
+
+[1]: http://example.com/1
+[2]: http://example.com/2
+[3]: http://placehold.it/200x200
