@@ -23,7 +23,7 @@ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![reference image][3]
 
-![](image.jpeg "Title text")
+![Alt Text](image.jpeg "Title text")
 
 > block quotes lorem ipsum ipsum lorem
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
