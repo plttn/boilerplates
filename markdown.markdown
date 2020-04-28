@@ -1,8 +1,13 @@
 # This is an H1
+
 ## This is an H2
+
 ### This is an H3
+
 #### This is an H4
+
 ##### This is an H5
+
 ###### This is an H6
 
 **bold** _ipsum_ _**dolor**_ [consectur][1] ~~strikethrough~~
@@ -18,12 +23,12 @@ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![reference image][3]
 
-![](image.jpeg "Title text")
+![Alt Text](image.jpeg "Title text")
 
 > block quotes lorem ipsum ipsum lorem
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 
---------------------------------------------------------------------------------
+---
 
 <!-- comment  -->
 
@@ -31,19 +36,17 @@ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 - list
 - items
 
-
 1. numerical
 2. itemed
 3. list
-
 
 inline `codeblocks` here
 
 ```html
 <html>
-	<head>
-	<title>hello</title>
-	</head>
+  <head>
+    <title>hello</title>
+  </head>
 </html>
 ```
 
